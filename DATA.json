@@ -1,0 +1,23 @@
+{
+    "users": [
+        {
+            "Name": "suba",
+            "Age": 23,
+            "Gender": "female",
+            "Disease": "Tuberculosis",
+            "Sympts": [
+                "high_fever",
+                "cough",
+                "vomiting",
+                "weight_loss",
+                "high_fever",
+                "breathlessness",
+                "sweating",
+                "loss_of_appetite",
+                "mild_fever",
+                "yellowing_of_eyes",
+                "blood_in_sputum"
+            ]
+        }
+    ]
+}
